@@ -1,0 +1,3 @@
+PHP provides several functions for reading files, each suited for different scenarios:
+Reading the entire file into an array (line by line)
+Outputting file content directly to the browser
